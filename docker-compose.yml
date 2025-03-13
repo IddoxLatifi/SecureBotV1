@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    env_file: .env
+    ports:
+      - "3000:3000"        # Falls dein Bot einen HTTP-Server betreiben sollte
+    depends_on:
+      - redis
+  redis:
+    image: redis:6-alpine
+    ports:
+      - "6379:6379"

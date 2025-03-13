@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Umgebungsvariablen (sensible Daten nicht ins Repository aufnehmen)
+.env
+
+# Log-Dateien
+*.log
+logs/
+
+# Temporäre Dateien
+tmp/
+temp/
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Editor-spezifische Dateien
+.vscode/
+.idea/
+
+# Build-Ergebnisse
+/dist
+/build
+
+# Sonstiges
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
