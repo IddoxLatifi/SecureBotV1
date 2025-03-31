@@ -13,7 +13,8 @@
 </p>
 
 <div align="center">
-  <img height="450" src="https://cdn.discordapp.com/attachments/1283833775507374211/1349813358483869706/Unbenannt.PNG?ex=67d47726&is=67d325a6&hm=0bddbbfc87cde3f3e0ec94f440d55c2c289b1d259cba3dfccb0d742fb0752312&"  />
+![IMG_7524](https://github.com/user-attachments/assets/9ee2afc3-b22e-4ae0-8f50-242ec402798c)
+
 </div>
 
 <h2 align="center">Requirements</h2>
