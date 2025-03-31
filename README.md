@@ -12,10 +12,9 @@
   It is and remains 100% free!
 </p>
 
-<div align="center">
-![IMG_7524](https://github.com/user-attachments/assets/9ee2afc3-b22e-4ae0-8f50-242ec402798c)
+![IMG_7524](https://github.com/user-attachments/assets/02f7f73a-d194-405d-b938-08ef71108a0f)
 
-</div>
+
 
 <h2 align="center">Requirements</h2>
 
